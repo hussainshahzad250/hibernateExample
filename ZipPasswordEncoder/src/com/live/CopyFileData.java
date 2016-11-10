@@ -15,6 +15,8 @@ import java.util.Map.Entry;
 import java.util.Set;
 
 public class CopyFileData {
+	
+	
 	public static void main(String[] args) throws Throwable {
 		// 1.First Method
 		copy(new File("abc.txt"), new File("xyzaaa.txt"));
