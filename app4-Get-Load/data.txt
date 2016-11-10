@@ -1,0 +1,3 @@
+ord65, vijay, 40, 10000
+ord66, ramu, 25, 45000
+ord67, suraj, 35, 35000
